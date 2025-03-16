@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|c:\\users\\mohomed faslan\\desktop\\quizmngmnt\\quizmngmnt\\ems\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|c:\\users\\mohomed faslan\\desktop\\quizmngmnt\\quizmngmnt\\ems\\candidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\candidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PUBLIC_DOCUMENTS_QUIZDB.MDF/True/SqlTable/dbo.QuestionTbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\candidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\candidates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|c:\\users\\mohomed faslan\\desktop\\quizmngmnt\\quizmngmnt\\ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|c:\\users\\mohomed faslan\\desktop\\quizmngmnt\\quizmngmnt\\ems\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\subjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|c:\\users\\mohomed faslan\\desktop\\quizmngmnt\\quizmngmnt\\ems\\candidates.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\candidates.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|c:\\users\\mohomed faslan\\desktop\\quizmngmnt\\quizmngmnt\\ems\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|c:\\users\\mohomed faslan\\desktop\\quizmngmnt\\quizmngmnt\\ems\\ems.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\ems.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A709F44F-2E0F-4131-BD6A-D8204D15FF19}|ems\\ems.csproj|solutionrelative:ems\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Questions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Questions.cs",
+              "RelativeDocumentMoniker": "ems\\Questions.cs",
+              "ToolTip": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Questions.cs [Design]",
+              "RelativeToolTip": "ems\\Questions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:21:41.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.QuestionTbl [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_PUBLIC_DOCUMENTS_QUIZDB.MDF/True/SqlTable/dbo.QuestionTbl.sql",
+              "ToolTip": "dbo.QuestionTbl [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-30T13:15:09.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Program.cs",
+              "RelativeDocumentMoniker": "ems\\Program.cs",
+              "ToolTip": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Program.cs",
+              "RelativeToolTip": "ems\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T12:31:07.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subjects.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Subjects.cs",
+              "RelativeDocumentMoniker": "ems\\Subjects.cs",
+              "ToolTip": "C:\\Users\\Public\\quizMngmnt\\ems\\Subjects.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Public\\quizMngmnt\\ems\\Subjects.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:38:38.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Candidates.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Candidates.cs",
+              "RelativeDocumentMoniker": "ems\\Candidates.cs",
+              "ToolTip": "C:\\Users\\Public\\quizMngmnt\\ems\\Candidates.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Public\\quizMngmnt\\ems\\Candidates.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:19:21.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Candidates.cs",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Candidates.cs",
+              "RelativeDocumentMoniker": "ems\\Candidates.cs",
+              "ToolTip": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Candidates.cs",
+              "RelativeToolTip": "ems\\Candidates.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:08:57.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Questions.cs",
+              "RelativeDocumentMoniker": "ems\\Questions.cs",
+              "ToolTip": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Questions.cs",
+              "RelativeToolTip": "ems\\Questions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:08:18.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subjects.cs",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Subjects.cs",
+              "RelativeDocumentMoniker": "ems\\Subjects.cs",
+              "ToolTip": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Subjects.cs",
+              "RelativeToolTip": "ems\\Subjects.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAAJoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:02:03.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Login.cs",
+              "RelativeDocumentMoniker": "ems\\Login.cs",
+              "ToolTip": "C:\\Users\\Public\\quizMngmnt\\ems\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Public\\quizMngmnt\\ems\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:01:11.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Candidates.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Candidates.Designer.cs",
+              "RelativeDocumentMoniker": "ems\\Candidates.Designer.cs",
+              "ToolTip": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Candidates.Designer.cs",
+              "RelativeToolTip": "ems\\Candidates.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:30:58.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ems",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\ems.csproj",
+              "RelativeDocumentMoniker": "ems\\ems.csproj",
+              "ToolTip": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\ems.csproj",
+              "RelativeToolTip": "ems\\ems.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-29T22:09:03.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exams.cs",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Exams.cs",
+              "RelativeDocumentMoniker": "ems\\Exams.cs",
+              "ToolTip": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Exams.cs",
+              "RelativeToolTip": "ems\\Exams.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:50:20.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Splash.cs",
+              "RelativeDocumentMoniker": "ems\\Splash.cs",
+              "ToolTip": "C:\\Users\\Public\\quizMngmnt\\ems\\Splash.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Public\\quizMngmnt\\ems\\Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:01:14.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exams.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mohomed Faslan\\Desktop\\quizMngmnt\\quizMngmnt\\ems\\Exams.cs",
+              "RelativeDocumentMoniker": "ems\\Exams.cs",
+              "ToolTip": "C:\\Users\\Public\\quizMngmnt\\ems\\Exams.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Public\\quizMngmnt\\ems\\Exams.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T21:48:51.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
